@@ -1,2 +1,2 @@
 # cep-api
-projeto consumindo api de cep
+https://rafael-alves-nascimento.github.io/cep-api/
